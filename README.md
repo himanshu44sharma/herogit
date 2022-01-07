@@ -1,0 +1,2 @@
+# herogit
+code for shyari
